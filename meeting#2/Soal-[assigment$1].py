@@ -1,0 +1,7 @@
+Nama = input("Nama :")
+Nama_nput = str(Nama)
+Umur = input("Umur :")
+Umur_nput = int(Umur)
+Tinggi = input("Tinggi :")
+Tinggi_nput = int(Tinggi)
+print("Nama saya", Nama_nput, ", umur saya", Umur_nput, ", dan tinggi saya", Tinggi_nput)
